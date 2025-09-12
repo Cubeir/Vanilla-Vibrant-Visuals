@@ -51,6 +51,6 @@
     "ambient": {
       "color": [ 255, 255, 255 ],
       "illuminance": 0.125
-    },
+    }
   }
 }

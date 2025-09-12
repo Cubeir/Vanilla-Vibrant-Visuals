@@ -53,10 +53,10 @@
     },
     "ambient": {
       "color": "#FFFFFF",
-      "illuminance": 0.0125
+      "illuminance": 0.01
     },
     "sky": {
-      "intensity": 0.667
+      "intensity": 0.5
     }
   }
 }
