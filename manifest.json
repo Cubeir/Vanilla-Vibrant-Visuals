@@ -2,18 +2,44 @@
     "format_version": 2,
     "header": {
         "name": "Vanilla Vibrant Visuals",
-        "description": "Enhanced assets and configurations for Vibrant Visuals graphics mode.\nVersion 3.0",
-        "uuid": "ea110667-b53f-4fb4-bf08-78f6e92d5a3a",
-        "version": [ 3, 0, 0 ],
-        "min_engine_version": [ 1, 21, 90 ]
+        "description": "Enhanced assets and configurations for Vibrant Visuals graphics mode.\nVersion 3.1",
+        "uuid": "a9c70898-4c7a-4dfd-aa57-a8f2f8764c57",
+        "version": [
+            3,
+            1,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            90
+        ]
     },
     "modules": [
         {
-            "description": "vanilla_pbr",
+            "description": "vv_redirected",
             "type": "resources",
-            "uuid": "e1d34297-2552-4c12-9049-f92e59d11b66",
-            "version": [ 3, 0, 0 ]
+            "uuid": "066bbad7-0bc7-42ca-b973-93f473b62456",
+            "version": [
+                3,
+                1,
+                0
+            ]
         }
     ],
-    "capabilities": [ "pbr" ]
+    "subpacks": [
+        {
+            "folder_name": "1",
+            "name": "No Textures (Lighting Only)",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "0",
+            "name": "Full Vanilla Vibrant Visuals",
+            "memory_tier": 1
+        }
+    ],
+    "capabilities": [
+        "pbr"
+    ]
 }

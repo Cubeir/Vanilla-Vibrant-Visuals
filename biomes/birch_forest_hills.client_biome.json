@@ -6,22 +6,22 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraft_pbr:fog_birch_forest_hills"
+        "fog_identifier": "vv_redirected:fog_birch_forest_hills"
       },
       "minecraft:water_appearance": {
         "surface_color": "#0a74c4"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "minecraft_pbr:birch_forest_hills_atmospherics"
+        "atmosphere_identifier": "vv_redirected:default_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "minecraft_pbr:birch_forest_hills_color_grading"
+        "color_grading_identifier": "vv_redirected:default_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "minecraft_pbr:birch_forest_hills_lighting"
+        "lighting_identifier": "vv_redirected:default_lighting"
       },
       "minecraft:water_identifier": {
-        "water_identifier": "minecraft_pbr:birch_forest_hills_water"
+        "water_identifier": "vv_redirected:default_water"
       }
     }
   }

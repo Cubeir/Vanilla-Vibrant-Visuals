@@ -6,10 +6,10 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraft_pbr:fog_swampland_mutated"
+        "fog_identifier": "minecraft:fog_swampland_mutated"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#2D7F52",
+        "surface_color": "#4c6156",
         "surface_opacity": 1.0
       },
       "minecraft:foliage_appearance": {
@@ -26,16 +26,16 @@
         "color": "#7B5334"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "minecraft_pbr:swampland_mutated_atmospherics"
+        "atmosphere_identifier": "minecraft:swampland_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "minecraft_pbr:swampland_mutated_color_grading"
+        "color_grading_identifier": "minecraft:swampland_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "minecraft_pbr:swampland_mutated_lighting"
+        "lighting_identifier": "minecraft:swampland_lighting"
       },
       "minecraft:water_identifier": {
-        "water_identifier": "minecraft_pbr:swampland_mutated_water"
+        "water_identifier": "minecraft:default_water"
       }
     }
   }

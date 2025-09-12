@@ -1,0 +1,6 @@
+{
+    "resource_pack_name": "vv_redirected",
+    "texture_name": "atlas.terrain",
+    "num_mip_levels": 4,
+    "padding": 8
+}

@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraft_pbr:fog_soulsand_valley"
+        "fog_identifier": "minecraft:fog_soulsand_valley"
       },
       "minecraft:water_appearance": {
         "surface_color": "#905957"
@@ -17,16 +17,16 @@
         "mood": "ambient.soulsand_valley.mood"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "minecraft_pbr:soulsand_valley_atmospherics"
+        "atmosphere_identifier": "minecraft:soulsand_valley_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "minecraft_pbr:soulsand_valley_color_grading"
+        "color_grading_identifier": "minecraft:default_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "minecraft_pbr:soulsand_valley_lighting"
+        "lighting_identifier": "minecraft:nether_lighting"
       },
       "minecraft:water_identifier": {
-        "water_identifier": "minecraft_pbr:soulsand_valley_water"
+        "water_identifier": "minecraft:default_water"
       }
     }
   }

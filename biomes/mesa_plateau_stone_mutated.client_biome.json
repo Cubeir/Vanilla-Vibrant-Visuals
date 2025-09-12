@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraft_pbr:fog_mesa_plateau_stone_mutated"
+        "fog_identifier": "vv_redirected:fog_dry"
       },
       "minecraft:water_appearance": {
         "surface_color": "#44AFF5"
@@ -18,16 +18,16 @@
         "color": "#90814d"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "minecraft_pbr:mesa_plateau_stone_mutated_atmospherics"
+        "atmosphere_identifier": "vv_redirected:mesa_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "minecraft_pbr:mesa_plateau_stone_mutated_color_grading"
+        "color_grading_identifier": "vv_redirected:mesa_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "minecraft_pbr:mesa_plateau_stone_mutated_lighting"
+        "lighting_identifier": "vv_redirected:mesa_lighting"
       },
       "minecraft:water_identifier": {
-        "water_identifier": "minecraft_pbr:mesa_plateau_stone_mutated_water"
+        "water_identifier": "vv_redirected:default_water"
       }
     }
   }

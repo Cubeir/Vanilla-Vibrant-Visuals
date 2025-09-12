@@ -6,22 +6,22 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraft_pbr:fog_bamboo_jungle"
+        "fog_identifier": "vv_redirected:fog_bamboo_jungle"
       },
       "minecraft:water_appearance": {
         "surface_color": "#14A2C5"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "minecraft_pbr:bamboo_jungle_atmospherics"
+        "atmosphere_identifier": "vv_redirected:warmish_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "minecraft_pbr:bamboo_jungle_color_grading"
+        "color_grading_identifier": "vv_redirected:warmish_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "minecraft_pbr:bamboo_jungle_lighting"
+        "lighting_identifier": "vv_redirected:warmish_lighting"
       },
       "minecraft:water_identifier": {
-        "water_identifier": "minecraft_pbr:bamboo_jungle_water"
+        "water_identifier": "vv_redirected:default_water"
       }
     }
   }

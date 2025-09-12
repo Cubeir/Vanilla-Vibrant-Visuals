@@ -6,23 +6,23 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraft_pbr:fog_warm_ocean"
+        "fog_identifier": "vv_redirected:fog_warm_ocean"
       },
       "minecraft:water_appearance": {
         "surface_color": "#02B0E5",
         "surface_opacity": 0.55
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "minecraft_pbr:warm_ocean_atmospherics"
+        "atmosphere_identifier": "vv_redirected:warmish_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "minecraft_pbr:warm_ocean_color_grading"
+        "color_grading_identifier": "vv_redirected:warmish_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "minecraft_pbr:warm_ocean_lighting"
+        "lighting_identifier": "vv_redirected:warmish_lighting"
       },
       "minecraft:water_identifier": {
-        "water_identifier": "minecraft_pbr:warm_ocean_water"
+        "water_identifier": "vv_redirected:default_water"
       }
     }
   }
