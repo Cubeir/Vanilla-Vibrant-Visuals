@@ -30,7 +30,7 @@
     "subpacks": [
         {
             "folder_name": "1",
-            "name": "No Textures (Lighting Only)",
+            "name": "Lighting Only (No Textures)",
             "memory_tier": 1
         },
         {
