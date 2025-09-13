@@ -34,7 +34,7 @@
       },
       "temperature": {
         "enabled": true,
-        "temperature": 5125,
+        "temperature": 5800,
         "type": "color_temperature"
       }
     }
