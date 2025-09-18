@@ -15,13 +15,13 @@
         "color": "#7B5334"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "vv_redirected:default_atmospherics"
+        "atmosphere_identifier": "vv_redirected:roofed_forest_atmospherics"
       },
       "minecraft:color_grading_identifier": {
-        "color_grading_identifier": "vv_redirected:default_color_grading"
+        "color_grading_identifier": "vv_redirected:roofed_forest_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "vv_redirected:default_lighting"
+        "lighting_identifier": "vv_redirected:roofed_forest_lighting"
       },
       "minecraft:water_identifier": {
         "water_identifier": "vv_redirected:default_water"
