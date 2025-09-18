@@ -5,12 +5,12 @@
       "identifier": "vv_redirected:end_atmospherics"
     },
     "sky_zenith_color": {
-      "0.0": [ 83, 2, 108 ],
-      "1.0": [ 83, 2, 108 ]
+      "0.0": "#53026C",
+      "1.0": "#53026C"
     },
     "sky_horizon_color": {
-      "0.0": [ 193, 109, 255 ],
-      "1.0": [ 193, 109, 255 ]
+      "0.0": "#C16DFF",
+      "1.0": "#C16DFF"
     },
     "horizon_blend_stops": {
       "min": 0.0,

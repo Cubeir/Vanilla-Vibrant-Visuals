@@ -5,12 +5,12 @@
       "identifier": "vv_redirected:hell_atmospherics"
     },
     "sky_zenith_color": {
-      "0.0": [ 51, 8, 8 ],
-      "1.0": [ 51, 8, 8 ]
+      "0.0": "#330808",
+      "1.0": "#330808"
     },
     "sky_horizon_color": {
-      "0.0": [ 51, 8, 8 ],
-      "1.0": [ 51, 8, 8 ]
+      "0.0": "#330808",
+      "1.0": "#330808"
     },
     "horizon_blend_stops": {
       "min": 0.0,

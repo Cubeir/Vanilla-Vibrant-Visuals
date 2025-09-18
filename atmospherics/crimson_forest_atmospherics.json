@@ -5,12 +5,12 @@
       "identifier": "vv_redirected:crimson_forest_atmospherics"
     },
     "sky_zenith_color": {
-      "0.0": [ 51, 3, 3 ],
-      "1.0": [ 51, 3, 3 ]
+      "0.0": "#330303",
+      "1.0": "#330303"
     },
     "sky_horizon_color": {
-      "0.0": [ 51, 3, 3 ],
-      "1.0": [ 51, 3, 3 ]
+      "0.0": "#330303",
+      "1.0": "#330303"
     },
     "horizon_blend_stops": {
       "min": 0.0,

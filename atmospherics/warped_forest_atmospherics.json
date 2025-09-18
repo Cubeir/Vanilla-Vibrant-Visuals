@@ -5,12 +5,12 @@
       "identifier": "vv_redirected:warped_forest_atmospherics"
     },
     "sky_zenith_color": {
-      "0.0": [ 30, 15, 30 ],
-      "1.0": [ 30, 15, 30 ]
+      "0.0": "#1E0F1E",
+      "1.0": "#1E0F1E"
     },
     "sky_horizon_color": {
-      "0.0": [ 30, 15, 30 ],
-      "1.0": [ 30, 15, 30 ]
+      "0.0": "#1E0F1E",
+      "1.0": "#1E0F1E"
     },
     "horizon_blend_stops": {
       "min": 0.0,
