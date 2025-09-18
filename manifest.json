@@ -2,11 +2,11 @@
     "format_version": 2,
     "header": {
         "name": "Vanilla Vibrant Visuals",
-        "description": "Enhanced assets and configurations for Vibrant Visuals graphics mode!\nVersion 3.1.0",
+        "description": "Enhanced assets and configurations for Vibrant Visuals graphics mode!\nVersion 3.2.0",
         "uuid": "a9c70898-4c7a-4dfd-aa57-a8f2f8764c57",
         "version": [
             3,
-            1,
+            2,
             0
         ],
         "min_engine_version": [
@@ -22,7 +22,7 @@
             "uuid": "066bbad7-0bc7-42ca-b973-93f473b62456",
             "version": [
                 3,
-                1,
+                2,
                 0
             ]
         }
