@@ -2,7 +2,7 @@
     "format_version": "1.21.40",
     "minecraft:atmosphere_settings": {
         "description": {
-            "identifier": "minecraft_vv:roofed_forest_atmospherics"
+            "identifier": "vv_redirected:roofed_forest_atmospherics"
         },
         "sky_zenith_color": {
             "0.000000": [

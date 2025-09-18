@@ -2,7 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:lighting_settings": {
 		"description": {
-			"identifier": "minecraft_vv:roofed_forest_lighting"
+			"identifier": "vv_redirected:roofed_forest_lighting"
 		},
 		"directional_lights": {
 			"sun": {
