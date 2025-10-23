@@ -1,0 +1,33 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Vibrant Visuals Normals",
+        "description": "Vanilla RTX Normals, now available for Vibrant Visuals!\nVersion 1.0",
+        "uuid": "ee5958bc-0f43-4e12-94a9-c948a19d78af",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            90
+        ]
+    },
+    "modules": [
+        {
+            "description": "vanilla_vv_normals",
+            "type": "resources",
+            "uuid": "7031ae54-d670-42c4-a1f6-39a06d8b1076",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "capabilities": [
+        "pbr"
+    ]
+}
