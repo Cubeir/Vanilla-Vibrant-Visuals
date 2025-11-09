@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "cauldron_inner",
+    "metalness_emissive_roughness_subsurface": "cauldron_inner_mers",
+    "normal": "cauldron_inner_normal"
+  }
+}
