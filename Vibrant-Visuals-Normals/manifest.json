@@ -2,8 +2,9 @@
     "format_version": 2,
     "header": {
         "name": "Vibrant Visuals Normals",
-        "description": "Vanilla RTX Normals, now available for Vibrant Visuals!\nVersion 1.0",
+        "description": "Official conversion of Vanilla RTX Normals for Vibrant Visuals!",
         "uuid": "ee5958bc-0f43-4e12-94a9-c948a19d78af",
+        "pack_scope": "any",
         "version": [
             1,
             0,
@@ -12,7 +13,7 @@
         "min_engine_version": [
             1,
             21,
-            90
+            100
         ]
     },
     "modules": [
@@ -29,5 +30,12 @@
     ],
     "capabilities": [
         "pbr"
-    ]
+    ],
+    "metadata": {
+        "authors": [
+            "Cubeir"
+        ],
+        "license": "https://github.com/Cubeir/Vanilla-RTX/blob/master/LICENSE.txt",
+        "url": "http://curseforge.com/minecraft-bedrock/texture-packs/vibrant-visuals-normals"
+    }
 }

@@ -2,8 +2,9 @@
     "format_version": 2,
     "header": {
         "name": "Vanilla Vibrant Visuals",
-        "description": "Enhanced assets and configurations for Vibrant Visuals graphics mode!\nVersion 3.2.0",
+        "description": "Enhanced assets and configurations for Vibrant Visuals graphics mode!",
         "uuid": "a9c70898-4c7a-4dfd-aa57-a8f2f8764c57",
+        "pack_scope": "any",
         "version": [
             3,
             2,
@@ -12,7 +13,7 @@
         "min_engine_version": [
             1,
             21,
-            90
+            100
         ]
     },
     "modules": [
