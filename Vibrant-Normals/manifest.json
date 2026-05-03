@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Vibrant Visuals Normals",
+        "name": "Vibrant Normals",
         "description": "Official conversion of Vanilla RTX Normals for Vibrant Visuals!",
         "uuid": "ee5958bc-0f43-4e12-94a9-c948a19d78af",
         "pack_scope": "any",
