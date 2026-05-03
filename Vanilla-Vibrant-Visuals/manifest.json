@@ -7,7 +7,7 @@
         "pack_scope": "any",
         "version": [
             3,
-            2,
+            3,
             0
         ],
         "min_engine_version": [
@@ -30,12 +30,12 @@
     ],
     "subpacks": [
         {
-            "folder_name": "1",
+            "folder_name": "b",
             "name": "Lighting Only (No Textures)",
             "memory_tier": 1
         },
         {
-            "folder_name": "0",
+            "folder_name": "a",
             "name": "Full Vanilla Vibrant Visuals",
             "memory_tier": 1
         }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "fern",
-    "heightmap": "fern_heightmap",
-    "metalness_emissive_roughness_subsurface": "fern_mer"
+    "metalness_emissive_roughness_subsurface": "fern_mers",
+    "heightmap": "fern_heightmap"
   }
 }
