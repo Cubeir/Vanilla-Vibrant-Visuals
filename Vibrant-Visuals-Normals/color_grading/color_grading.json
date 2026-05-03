@@ -7,9 +7,9 @@
     "color_grading": {
       "midtones": {
         "contrast": [
-          1.25,
-          1.25,
-          1.25
+          1.15,
+          1.15,
+          1.15
         ],
         "gain": [
           1.0,
